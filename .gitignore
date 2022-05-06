@@ -1,5 +1,6 @@
 # Project wise
 .DS_Store
+secrets.txt
 
 # Prerequisites
 *.d
